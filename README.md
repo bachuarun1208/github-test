@@ -1,2 +1,2 @@
 # github-test
-This is github practice
+This is for github practice
